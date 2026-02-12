@@ -2,7 +2,7 @@
 
 **Integrantes**
 
-- Kely Andrea Barriebtos Pino
+- Kely Andrea Barrientos Pino
 
 **Descripción**
 
