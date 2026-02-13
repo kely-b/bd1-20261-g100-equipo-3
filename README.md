@@ -3,6 +3,7 @@
 **Integrantes**
 
 - Kely Andrea Barrientos Pino
+- Tomas Henao Cardona
 
 **Descripción**
 
