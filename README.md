@@ -1,5 +1,4 @@
-## Modelo conceptual de la red social estudiantil Pascualina
-
+## Proyecto centinela logistica 
 **Integrantes**
 
 - Kely Andrea Barrientos Pino
