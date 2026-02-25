@@ -1,4 +1,4 @@
-## Proyecto centinela logistica 
+## Red Social Pascualina
 **Integrantes**
 
 - Kely Andrea Barrientos Pino
