@@ -3,6 +3,7 @@
 ## Curso: Bases de Datos I
 ## Docente: Jaime Soto
 ## ByteCampus - Byte: Representa la unidad mínima de información digital yel ADN de la tecnología simbolizando estudiantes y docentes. Campus: El sentido de pertenencia y la vida universitaria
+## Grupo: 3
 **Integrantes**
 
 - Kely Andrea Barrientos Pino
