@@ -1,6 +1,6 @@
 -- =====================================================
 -- Script 05-D — DELETE
--- Proyecto: Red Social Universitaria
+-- Proyecto: Red Social 
 -- =====================================================
 
 
